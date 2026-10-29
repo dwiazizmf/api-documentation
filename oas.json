@@ -2,13 +2,13 @@
     "swagger": "2.0",
     "info": {
         "version": "v1.0",
-        "title": "GPSTRACKER.IO",
+        "title": "Virtus Indonesia - Api Documentation",
         "description": "## Welcome\n\nThis is a place to put general notes and extra information, for internal use.\n\nTo get started designing/documenting this API, select a version on the left. # Title\nNo Description",
         "contact": {
             "name": "conact"
         }
     },
-    "host": "gpstracker.io",
+    "host": "gps.virtus-indonesia.com",
     "basePath": "/api",
     "schemes": [
         "https"
